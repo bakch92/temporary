@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7c6a82e.css",
+    "main.js": "/static/js/main.821d2f5b.js",
+    "static/media/숲속마음.PNG": "/static/media/숲속마음.1bf8511ca57abc6b94d2.PNG",
+    "index.html": "/index.html",
+    "main.c7c6a82e.css.map": "/static/css/main.c7c6a82e.css.map",
+    "main.821d2f5b.js.map": "/static/js/main.821d2f5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c6a82e.css",
+    "static/js/main.821d2f5b.js"
+  ]
+}
